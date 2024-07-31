@@ -29,7 +29,7 @@
 
 ### DiscordBotTemplate
 
-[DiscordBotTemplate](https://github.com/xireno/discordbotbase): A versatile Discord bot template with various features and commands to enhance your server experience.
+[DiscordBotTemplate](https://github.com/xireno/discord-bot-template): A versatile Discord bot template with various features and commands to enhance your server experience.
 
 ## Get in Touch
 
