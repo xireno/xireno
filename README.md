@@ -1,5 +1,5 @@
 
-<img src="banner.gif" alt="Banner" style="width:100%; height:250px; object-fit:cover;">
+<img src="banner_stretched.gif" alt="Banner" style="width:100%; height:250px; object-fit:cover;">
 
 
 <h1 align="center">Hi there, I'm Ren.</h1>
