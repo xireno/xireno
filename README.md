@@ -46,8 +46,5 @@ Feel free to reach out to me through:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xireno&layout=compact&theme=radical)
 
-## Fun Fact
-
-- 🌍 I love traveling and have visited over 7 countries.
 
 
