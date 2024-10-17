@@ -31,6 +31,7 @@
 ### DiscordBotTemplate
 
 [DiscordBotTemplate](https://github.com/xireno/discord-bot-template): A versatile Discord bot template with various features and commands to enhance your server experience.
+
 [SENT!NEL](https://github.com/xireno/SENT!NEL): A clean lightweight python based SIEM tool (Security Information Event Manager)
 ## Get in Touch
 
@@ -44,7 +45,6 @@ Feel free to reach out to me through:
 
 ![Xireno's GitHub stats](https://github-readme-stats.vercel.app/api?username=xireno&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xireno&layout=compact&theme=radical)
 
 
 
