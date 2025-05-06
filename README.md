@@ -31,8 +31,8 @@
 ### DiscordBotTemplate
 
 [DiscordBotTemplate](https://github.com/xireno/discord-bot-template): A versatile Discord bot template with various features and commands to enhance your server experience.
-
-[SENT1NEL](https://github.com/xireno/SENT1NEL): A clean lightweight python based SIEM tool (Security Information Event Manager)
+[VmC2 reverse shell](https://github.com/xireno/vmc2): A modular client-server framework for remote system administration and management.
+This tool provides a flexible architecture for executing commands and modules on remote clients from a central server.
 ## Get in Touch
 
 Feel free to reach out to me through:
