@@ -1,53 +1,46 @@
-
 <img src="banner_stretched.gif" alt="Banner" style="width:100%; height:250px; object-fit:cover;">
 
-
-<h1 align="center">Hi there, I'm Ren.</h1>
+<h1 align="center">Ren</h1>
 
 <p align="center">
-  Welcome to my GitHub profile! I'm a passionate developer with a love for coding and building spectacular projects.
+  Cybersecurity Engineer & Software Developer specializing in reverse engineering, security automation, and Discord bot development.
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=xireno&color=blueviolet" alt="Profile Views">
 </p>
 
-## About Me
+## Technical Expertise & Current Focus
 
-- 🌱 I’m interested in cyber security and currently learning:
-  <br>
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="25px"></a>
-  <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" width="25px"></a>
-  <a href="https://www.cplusplus.com/"><img src="https://skillicons.dev/icons?i=cpp" width="25px"></a>
-  <a href="https://www.cisco.com/c/en/us/products/security/index.html"><img src="https://skillicons.dev/icons?i=security" width="25px"></a>
-- 💬 Ask me about Java, Python, and open-source contributions.
-- 📫 How to reach me: 
-  <a href="https://discordapp.com/users/957578507649683457"><img src="https://skillicons.dev/icons?i=discord" width="25px"></a> 
-  <a href="https://instagram.com/ren._.4497"><img src="https://skillicons.dev/icons?i=instagram" width="25px"></a>
-- 😄 Pronouns: he/him
+| **Domain** | **Technologies** | **Experience Level** | **Active Projects** |
+|------------|------------------|---------------------|---------------------|
+| **Cybersecurity** | Python, Security Tools, Penetration Testing | Advanced | [VmC2reverse-shell](https://github.com/xireno/vmc2) Framework |
+| **Backend Development** | Java, Python, API Development | Expert | [Discord Bot Template](https://github.com/xireno/discord-bot-template) |
+| **Systems Programming** | C++, Reverse Engineering, Client-Server Architecture | Intermediate | Remote Administration Tools |
+| **Database & Infrastructure** | SQL, NoSQL, Linux Administration | Advanced | Data Architecture, System Management |
 
-## My Projects
+## Professional Skills Matrix
 
-### DiscordBotTemplate
+| **Category** | **Core Competencies** | **Proficiency** | **Applications** |
+|--------------|----------------------|-----------------|------------------|
+| **Security Analysis** | Reverse Engineering, Vulnerability Assessment | Advanced | Malware Analysis, Security Research |
+| **Software Development** | Full-stack Development, API Design | Expert | Discord Automation, Web Applications |
+| **System Administration** | Linux, Network Security, Remote Management | Advanced | Infrastructure Security, DevOps |
 
-[DiscordBotTemplate](https://github.com/xireno/discord-bot-template): A versatile Discord bot template with various features and commands to enhance your server experience.
+## Featured Projects
 
-[VmC2reverse shell](https://github.com/xireno/vmc2): A modular client-server framework for remote system administration and management.
-This tool provides a flexible architecture for executing commands and modules on remote clients from a central server.
-## Get in Touch
+| **Project** | **Description** | **Technologies** | **Repository** |
+|-------------|-----------------|------------------|----------------|
+| **VmC2reverse-shell** | Modular client-server framework for remote system administration and management with advanced security features | Python, Networking, Security | [View Repository](https://github.com/xireno/vmc2) |
+| **Discord Bot Template** | Versatile Discord bot with comprehensive features, modular commands, role-based permissions, and extensive customization | Java, Discord API, Backend | [View Repository](https://github.com/xireno/discord-bot-template) |
 
-Feel free to reach out to me through:
+## Professional Contact
 
-- [Instagram](https://instagram.com/ren._.4497)
-- [Discord](https://discordapp.com/users/957578507649683457)
-- [GitHub](https://github.com/xireno)
-
-## GitHub Stats
+| **Platform** | **Purpose** | **Link** |
+|--------------|-------------|----------|
+| **GitHub** | Professional Portfolio | [github.com/xireno](https://github.com/xireno) |
+| **Discord** | Technical Collaboration | [Discord Profile](https://discordapp.com/users/957578507649683457) |
+| **Instagram** | Professional Networking | [ren._.4497](https://instagram.com/ren._.4497) |
 
 ![Xireno's GitHub stats](https://github-readme-stats.vercel.app/api?username=xireno&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xireno&layout=compact&theme=radical)
-
-
-
-
