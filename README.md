@@ -14,7 +14,7 @@
 
 | **Domain** | **Technologies** | **Experience Level** | **Active Projects** |
 |------------|------------------|---------------------|---------------------|
-| **Cybersecurity** | Python, Security Tools, Penetration Testing | Advanced | [VmC2reverse-shell](https://github.com/xireno/vmc2) Framework |
+| **Cybersecurity** | Python, Security Tools, Penetration Testing | Advanced | [Advanced C2 RCE](https://github.com/xireno/RCE-malware) [VmC2reverse-shell](https://github.com/xireno/vmc2) Framework |
 | **Backend Development** | Java, Python, API Development | Expert | [Discord Bot Template](https://github.com/xireno/discord-bot-template) |
 | **Systems Programming** | C++, Reverse Engineering, Client-Server Architecture | Intermediate | Remote Administration Tools |
 | **Database & Infrastructure** | SQL, NoSQL, Linux Administration | Advanced | Data Architecture, System Management |
