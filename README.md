@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xireno&color=blueviolet" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=xireno&color=black" alt="Profile Views">
 </p>
 
 ## Technical Expertise & Current Focus
