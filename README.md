@@ -1,4 +1,4 @@
-<img src="banner_stretched.gif" alt="Banner" style="width:100%; height:250px; object-fit:cover;">
+<img src="logo.png" alt="Banner" style="width:100%; height:250px; object-fit:cover;">
 
 <h1 align="center">Ren</h1>
 
