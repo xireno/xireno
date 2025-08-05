@@ -6,10 +6,6 @@
   Cybersecurity Engineer & Software Developer specializing in reverse engineering, security automation, and Discord bot development.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xireno&color=grey" alt="Profile Views">
-</p>
-
 ## Technical Expertise & Current Focus
 
 | **Domain** | **Technologies** | **Experience Level** | **Active Projects** |
